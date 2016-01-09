@@ -1,2 +1,2 @@
 # vec2visual
-Visualizing word embeddings
+Web-based visualization of embeddings
