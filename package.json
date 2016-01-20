@@ -1,0 +1,22 @@
+{
+  "name": "vec2visual",
+  "version": "0.0.1",
+  "description": "Web-based visualization of embeddings",
+  "dependencies": {
+    "express": "^4.13.3",
+    "jade": "^1.11.0",
+    "tsne-js": "^1.0.2",
+    "word2vec": "^0.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bryandeng/vec2visual"
+  },
+  "keywords": [
+    "visualization",
+    "nlp",
+    "embedding"
+  ],
+  "author": "Boyuan Deng",
+  "license": "Apache License, Version 2.0"
+}
